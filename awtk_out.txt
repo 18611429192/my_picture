@@ -1,0 +1,410 @@
+app_root=/home/liuli/AWTK/my_awtk_pro/my_test_demo/res
+WITH_FB_BGR565
+scroll_view_prepare_to_start
+thread start!
+Window 1 shown
+Window 1 hidden
+Window 1 shown
+Window 1 moved to 367,247
+Window 1 exposed
+Window 1 gained keyboard focus
+Window 1 is offered a focus
+window main open
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=13493 
+  draw_image_cost=47 times=1
+  draw_text_cost=4 times=27
+  fill_cost=10 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=12748
+-------------------------------------
+Mouse entered window 1
+Mouse left window 1
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=147 
+  draw_image_cost=9 times=3
+  draw_text_cost=0 times=14
+  fill_cost=1 times=9
+  stroke_cost=0 times=0
+  end_frame_cost=133
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=125 
+  draw_image_cost=6 times=1
+  draw_text_cost=0 times=4
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=118
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=203 
+  draw_image_cost=11 times=1
+  draw_text_cost=1 times=4
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=189
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=155 
+  draw_image_cost=1 times=1
+  draw_text_cost=0 times=4
+  fill_cost=1 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=153
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=155 
+  draw_image_cost=1 times=1
+  draw_text_cost=0 times=4
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=154
+-------------------------------------
+Mouse entered window 1
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=152 
+  draw_image_cost=8 times=2
+  draw_text_cost=0 times=4
+  fill_cost=0 times=3
+  stroke_cost=0 times=0
+  end_frame_cost=139
+-------------------------------------
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down:(117, 125)
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] timer id:4
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=226 
+  draw_image_cost=63 times=1
+  draw_text_cost=1 times=27
+  fill_cost=2 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=156
+-------------------------------------
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] EVT_POINTER_DOWN_ABORT
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] down_abort
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] up
+[21-09-26] [20:17:46] [ts/gesture/gesture.c] up:(407, 143)
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=272 
+  draw_image_cost=90 times=1
+  draw_text_cost=0 times=13
+  fill_cost=2 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=157
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=229 
+  draw_image_cost=103 times=1
+  draw_text_cost=0 times=13
+  fill_cost=3 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=120
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=173 
+  draw_image_cost=52 times=1
+  draw_text_cost=0 times=13
+  fill_cost=1 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=116
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=116 
+  draw_image_cost=1 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=114
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=127 
+  draw_image_cost=7 times=2
+  draw_text_cost=0 times=6
+  fill_cost=0 times=3
+  stroke_cost=0 times=0
+  end_frame_cost=118
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=134 
+  draw_image_cost=5 times=2
+  draw_text_cost=0 times=6
+  fill_cost=0 times=3
+  stroke_cost=0 times=0
+  end_frame_cost=125
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=157 
+  draw_image_cost=11 times=2
+  draw_text_cost=0 times=6
+  fill_cost=0 times=3
+  stroke_cost=0 times=0
+  end_frame_cost=141
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=137 
+  draw_image_cost=16 times=2
+  draw_text_cost=0 times=6
+  fill_cost=0 times=3
+  stroke_cost=0 times=0
+  end_frame_cost=119
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=156 
+  draw_image_cost=10 times=3
+  draw_text_cost=0 times=9
+  fill_cost=1 times=9
+  stroke_cost=0 times=0
+  end_frame_cost=141
+-------------------------------------
+[21-09-26] [20:17:48] [ts/gesture/gesture.c] down
+[21-09-26] [20:17:48] [ts/gesture/gesture.c] down:(255, 265)
+[21-09-26] [20:17:48] [ts/gesture/gesture.c] timer id:5
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=171 
+  draw_image_cost=50 times=1
+  draw_text_cost=1 times=13
+  fill_cost=1 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=116
+-------------------------------------
+temp:[{"deviceName":"1280","feedId":"720"},{"deviceName":"1920","feedId":"1080"},{"deviceName":"3840","feedId":"2160"}]
+_watch_cb,66
+[21-09-26] [20:17:48] [ts/gesture/gesture.c] up
+[21-09-26] [20:17:48] [ts/gesture/gesture.c] up:(255, 265)
+cond coming!!
+name:1280,feedid:720
+name:1920,feedid:1080
+name:3840,feedid:2160
+name:1280,feedid:720
+thread start!
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=136 
+  draw_image_cost=6 times=2
+  draw_text_cost=0 times=9
+  fill_cost=0 times=8
+  stroke_cost=0 times=0
+  end_frame_cost=129
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=116 
+  draw_image_cost=0 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=115
+-------------------------------------
+update_scroll_device_view,124
+update_scroll_device_view,131
+1280
+ online|living room
+1920
+ online|living room
+update_scroll_device_view,141
+3840
+ online|living room
+children_layouter_default_layout:296 condition(h > 0 && w > 0) failed!
+children_layouter_default_layout:296 condition(h > 0 && w > 0) failed!
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=236 
+  draw_image_cost=43 times=8
+  draw_text_cost=2 times=69
+  fill_cost=15 times=6
+  stroke_cost=0 times=0
+  end_frame_cost=127
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=111 
+  draw_image_cost=1 times=1
+  draw_text_cost=1 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=108
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=115 
+  draw_image_cost=4 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=111
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=132 
+  draw_image_cost=4 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=126
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=188 
+  draw_image_cost=42 times=9
+  draw_text_cost=1 times=69
+  fill_cost=13 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=125
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=167 
+  draw_image_cost=31 times=9
+  draw_text_cost=1 times=48
+  fill_cost=8 times=7
+  stroke_cost=0 times=0
+  end_frame_cost=122
+-------------------------------------
+Mouse left window 1
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=125 
+  draw_image_cost=6 times=2
+  draw_text_cost=0 times=6
+  fill_cost=0 times=3
+  stroke_cost=0 times=0
+  end_frame_cost=116
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=129 
+  draw_image_cost=1 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=128
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=115 
+  draw_image_cost=0 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=114
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=105 
+  draw_image_cost=0 times=1
+  draw_text_cost=1 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=104
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=121 
+  draw_image_cost=0 times=1
+  draw_text_cost=1 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=120
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=121 
+  draw_image_cost=0 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=120
+-------------------------------------
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=110 
+  draw_image_cost=0 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=108
+-------------------------------------
+Window 1 got unknown event 14
+#####################################
+src/base/lcd_profile.c:321
+-------------------------------------
+  total_cost=105 
+  draw_image_cost=0 times=1
+  draw_text_cost=0 times=6
+  fill_cost=0 times=2
+  stroke_cost=0 times=0
+  end_frame_cost=102
+-------------------------------------
+unload image background_0
+unload image lamp_off
+unload image switch_close
+Close native window.
+lcd_destroy:308 condition(lcd != NULL && lcd->destroy != NULL) failed!
