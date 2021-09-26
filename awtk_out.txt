@@ -1,4 +1,3 @@
-app_root=/home/liuli/AWTK/my_awtk_pro/my_test_demo/res
 WITH_FB_BGR565
 scroll_view_prepare_to_start
 thread start!
